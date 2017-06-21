@@ -10,13 +10,17 @@
 
 ## 语言包
 
-|语言||
+|语言|文件|
 |-------|-------|
-|简体中文|zh-Hans|
-|繁体中文|zh-Hans|
-|英语    |en|
+|简体中文|[/zh-Hans/XPatchLib.resources.dll](https://github.com/GuQiangJS/XPatchLib.Net.Localization/raw/master/bin/zh-Hans/XPatchLib.resources.dll)|
+|繁体中文|[/zh-Hant/XPatchLib.resources.dll](https://github.com/GuQiangJS/XPatchLib.Net.Localization/raw/master/bin/zh-Hant/XPatchLib.resources.dll)|
+|英语    |[/en/XPatchLib.resources.dll](https://github.com/GuQiangJS/XPatchLib.Net.Localization/raw/master/bin/en/XPatchLib.resources.dll)|
 
 ## 相关链接
+
+* [XPatchLib.Net](https://github.com/GuQiangJS/XPatchLib.Net)
+
+* [XPatchLib.Net Helper WebSite](https://guqiangjs.github.io/XPatchLib.Net.Doc/)
 
 * [National Language Support (NLS) API Reference](http://go.microsoft.com/fwlink/?LinkId=200048)
 
