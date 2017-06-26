@@ -132,6 +132,9 @@
   <data name="Exp_String_KeyValueChanged" xml:space="preserve">
     <value>Key /值對類型對象，Key值被變更。原始Key value：'{0}'，更新後的Key值：'{1}'。</value>
   </data>
+  <data name="Exp_String_KeyValue_KeyIsNull" xml:space="preserve">
+    <value>鍵/值對類型對象異常，原始值與更新後的Key值均為Null。</value>
+  </data>
   <data name="Exp_String_MemberType" xml:space="preserve">
     <value>{0}.MemberType 既不是 MemberTypes.Property 也不是 MemberTypes.Field。 而是 '{1}' 。</value>
   </data>

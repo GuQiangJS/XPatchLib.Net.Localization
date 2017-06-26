@@ -132,6 +132,9 @@
   <data name="Exp_String_KeyValueChanged" xml:space="preserve">
     <value>Key-value pairs of type objects, Key values are changed. The original Key value: '{0}', the updated Key value: '{1}'.</value>
   </data>
+  <data name="Exp_String_KeyValue_KeyIsNull" xml:space="preserve">
+    <value>Key / value pairs of type object exception, the original value and the updated Key value are Null.</value>
+  </data>
   <data name="Exp_String_MemberType" xml:space="preserve">
     <value>{0}.Membertype is neither MemberTypes.Property nor MemberTypes.Field. But ' {1} '.</value>
   </data>
