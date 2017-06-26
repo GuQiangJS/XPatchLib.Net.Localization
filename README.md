@@ -12,7 +12,6 @@
 
 |语言|文件|
 |-------|-------|
-|简体中文|[/zh-Hans/XPatchLib.resources.dll](https://github.com/GuQiangJS/XPatchLib.Net.Localization/raw/master/bin/zh-Hans/XPatchLib.resources.dll)|
 |繁体中文|[/zh-Hant/XPatchLib.resources.dll](https://github.com/GuQiangJS/XPatchLib.Net.Localization/raw/master/bin/zh-Hant/XPatchLib.resources.dll)|
 |英语    |[/en/XPatchLib.resources.dll](https://github.com/GuQiangJS/XPatchLib.Net.Localization/raw/master/bin/en/XPatchLib.resources.dll)|
 
