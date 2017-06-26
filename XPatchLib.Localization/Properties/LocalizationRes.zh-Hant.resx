@@ -118,21 +118,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Exp_String_AttributeMiss" xml:space="preserve">
-    <value>類型 ' {0} ' 上沒有定義 ' {1} ' 特性。</value>
+    <value>類型 '{0}' 上沒有定義 '{1}' 特性。</value>
   </data>
   <data name="Exp_String_FileNotExists" xml:space="preserve">
-    <value>檔' {0} ' 不存在。</value>
+    <value>檔 '{0}' 不存在。</value>
   </data>
   <data name="Exp_String_IsNotColor" xml:space="preserve">
-    <value>' {0} ' 不能被轉換成 System.Drawing.Color 对象。</value>
+    <value>'{0}' 不能被轉換成 System.Drawing.Color 对象。</value>
   </data>
   <data name="Exp_String_IsNotEnum" xml:space="preserve">
-    <value>類型 ' {0} ' 不是枚舉類型。</value>
+    <value>類型 '{0}' 不是枚舉類型。</value>
+  </data>
+  <data name="Exp_String_KeyValueChanged" xml:space="preserve">
+    <value>Key /值對類型對象，Key值被變更。原始Key value：'{0}'，更新後的Key值：'{1}'。</value>
   </data>
   <data name="Exp_String_MemberType" xml:space="preserve">
-    <value>{0}.MemberType 既不是 MemberTypes.Property 也不是 MemberTypes.Field。 而是 ' {1} ' 。</value>
+    <value>{0}.MemberType 既不是 MemberTypes.Property 也不是 MemberTypes.Field。 而是 '{1}' 。</value>
   </data>
   <data name="Exp_String_PrimaryKey" xml:space="preserve">
-    <value>' {0} ' 的 主鍵 ' {1} ' 設置異常。</value>
+    <value>'{0}' 的 主鍵 '{1}' 設置異常。</value>
   </data>
 </root>

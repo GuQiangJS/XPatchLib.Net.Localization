@@ -129,6 +129,9 @@
   <data name="Exp_String_IsNotEnum" xml:space="preserve">
     <value>Type ' {0} ' is not an enumeration type.</value>
   </data>
+  <data name="Exp_String_KeyValueChanged" xml:space="preserve">
+    <value>Key-value pairs of type objects, Key values are changed. The original Key value: '{0}', the updated Key value: '{1}'.</value>
+  </data>
   <data name="Exp_String_MemberType" xml:space="preserve">
     <value>{0}.Membertype is neither MemberTypes.Property nor MemberTypes.Field. But ' {1} '.</value>
   </data>
