@@ -123,6 +123,12 @@
   <data name="Exp_String_FileNotExists" xml:space="preserve">
     <value>File ' {0} ' does not exist.</value>
   </data>
+  <data name="Exp_String_InvalidIndentation" xml:space="preserve">
+    <value>Indentation value must be greater than 0.</value>
+  </data>
+  <data name="Exp_String_InvalidQuote" xml:space="preserve">
+    <value>Invalid XML attribute quote character. Valid attribute quote characters are ' and ".</value>
+  </data>
   <data name="Exp_String_IsNotColor" xml:space="preserve">
     <value>' {0} ' cannot be converted to System. Drawing. Color object.</value>
   </data>
@@ -140,5 +146,8 @@
   </data>
   <data name="Exp_String_PrimaryKey" xml:space="preserve">
     <value>' {0} ' primary key ' {1} ' setting exception.</value>
+  </data>
+  <data name="Exp_String_WriteClosed" xml:space="preserve">
+    <value>The Writer is closed.</value>
   </data>
 </root>
