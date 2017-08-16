@@ -7,7 +7,7 @@
     <Description>Patch Serialization Library for the .Net</Description>
     <Company />
     <Authors>Qiang Gu</Authors>
-    <Version>3.0.0.10</Version>
+    <Version>3.0.0.11</Version>
     <PackageLicenseUrl>https://github.com/GuQiangJS/XPatchLib.Net/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/GuQiangJS/XPatchLib.Net</PackageProjectUrl>
     <Copyright>Copyright © 2013-2017 - GuQiang</Copyright>

@@ -120,6 +120,9 @@
   <data name="Exp_String_AttributeMiss" xml:space="preserve">
     <value>類型 '{0}' 上沒有定義 '{1}' 特性。</value>
   </data>
+  <data name="Exp_String_CircularReference" xml:space="preserve">
+    <value>在序列化類型為 '{0}' 的對象時檢測到循環引用。</value>
+  </data>
   <data name="Exp_String_FileNotExists" xml:space="preserve">
     <value>檔 '{0}' 不存在。</value>
   </data>
