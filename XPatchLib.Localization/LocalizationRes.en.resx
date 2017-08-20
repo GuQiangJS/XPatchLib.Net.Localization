@@ -150,6 +150,12 @@
   <data name="Exp_String_PrimaryKey" xml:space="preserve">
     <value>' {0} ' primary key ' {1} ' setting exception.</value>
   </data>
+  <data name="Exp_String_TypeAssemblyQualifiedNameIsEmpty" xml:space="preserve">
+    <value>Node '{0}' The assembly attribute tag can not be empty.</value>
+  </data>
+  <data name="Exp_String_TypeAssemblyQualifiedNameNotFound" xml:space="preserve">
+    <value>Failed to load file or assembly '{0}' or one of its dependencies. The system can not find the file specified.</value>
+  </data>
   <data name="Exp_String_WriteClosed" xml:space="preserve">
     <value>The Writer is closed.</value>
   </data>
