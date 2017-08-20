@@ -1,7 +1,7 @@
 @ECHO OFF
 
 ::XPatchLibÏîÄ¿Â·¾¶
-IF EXIST "%~dp0\XPatchLib.Localization.sln" SET "SLN=%~dp0\XPatchLib.Localization.sln"
+IF EXIST "%~dp0\XPatchLib.Net.Localization.sln" SET "SLN=%~dp0\XPatchLib.Net.Localization.sln"
 
 IF EXIST "%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Community\MSBuild\15.0" SET "VS150COMNTOOLS=%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Community\MSBuild\15.0"
 IF EXIST "%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Professional\MSBuild\15.0" SET "VS150COMNTOOLS=%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Professional\MSBuild\15.0"
@@ -41,7 +41,7 @@ goto CopyResult
 IF NOT EXIST "%~dp0bin\" MD "%~dp0bin\"
 echo xcopy /S /E /Y "%~dp0*.*" "%~dp0bin\" /exclude:"%~dp0exclude.txt"
 
-xcopy /S /E /Y "%~dp0XPatchLib.Localization\bin\Release\net20\*.resources.dll" "%~dp0bin\" /exclude:%~dp0exclude.txt
+xcopy /S /E /Y "%~dp0XPatchLib.Net.Localization\bin\Release\net20\*.resources.dll" "%~dp0bin\" /exclude:%~dp0exclude.txt
 )
  
 :End

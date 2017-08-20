@@ -15,6 +15,8 @@
     <PackageTags>Serialization Patch XmlSerialization</PackageTags>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <ProjectGuid>{21D58A48-7598-46E6-8252-58BCC2E1FDCB}</ProjectGuid>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition="'$(TargetFramework)'=='net20'">
     <AssemblyTitle>XPatchLib Resources</AssemblyTitle>

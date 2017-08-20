@@ -5,3 +5,5 @@
 /XPatchLib.Localization/bin
 /XPatchLib.Localization/obj
 /.vs
+/XPatchLib.Net.Localization/obj
+/XPatchLib.Net.Localization/bin
