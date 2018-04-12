@@ -7,10 +7,10 @@
     <Description>Patch Serialization Library for the .Net</Description>
     <Company />
     <Authors>Qiang Gu</Authors>
-    <Version>3.0.5.1</Version>
+    <Version>4.0.0.1</Version>
     <PackageLicenseUrl>https://github.com/GuQiangJS/XPatchLib.Net/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/GuQiangJS/XPatchLib.Net</PackageProjectUrl>
-    <Copyright>Copyright © 2013-2017 - GuQiang</Copyright>
+    <Copyright>Copyright © 2013-2018 - GuQiang</Copyright>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <PackageTags>Serialization Patch XmlSerialization</PackageTags>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
